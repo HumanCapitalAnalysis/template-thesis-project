@@ -22,7 +22,9 @@ To ensure full reproducibility of your project, please set up a [Travis CI](http
 
 ## Basics
 
-* All communication is conducted using [slack](https://slack.com). Please join us in our workspace [here](https://join.slack.com/t/humancapitalanalysis/shared_invite/enQtNDQ0ODkyODYyODA2LWEyZjdlNWYwYmUyNzlkOWFkNWJkMGI5M2M4ZWUyMThhNWNiMmJhY2ZjY2E4YzE3NGQ5MzcxZTRhN2QxYjgxYWY)
+* All communication is conducted using [zulip](https://zulipchat.com/). For further information, please do not hesitate to contact us.
+
+[![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://hca.zulipchat.com/)
 
 * We regularly meet for a group discussion of the ongoing projects and participation is expected.
 
@@ -34,6 +36,3 @@ To ensure full reproducibility of your project, please set up a [Travis CI](http
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-template/blob/master/LICENSE)
 
-## TODO:
-
-* The link for the slack room is wrong. We need to decide to have it in HumanCapitalAnalysis or sth. else.

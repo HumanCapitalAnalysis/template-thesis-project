@@ -9,5 +9,6 @@ dependencies:
 - scipy
 - pip
 - pip:
-  - grmpy==0.1.1.dev0
+  - grmpy==0.1.3.dev1
+  - scikit-misc
 
