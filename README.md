@@ -22,17 +22,10 @@ To ensure full reproducibility of your project, please set up a [Travis CI](http
 
 ## Basics
 
-* All communication is conducted using [zulip](https://zulipchat.com/). For further information, please do not hesitate to contact us.
+* All communication is conducted using [Zulip](https://zulipchat.com/). For further information, please do not hesitate to contact us.
 
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://hca.zulipchat.com/)
 
 * We regularly meet for a group discussion of the ongoing projects and participation is expected.
 
 * The thesis must be written in English.
-
-## Frequently asked questions and answers
-
-* *How can I improve the quality of my writing?* We provide some suggestions [here](https://github.com/HumanCapitalAnalysis/general-resources).
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-template/blob/master/LICENSE)
-
