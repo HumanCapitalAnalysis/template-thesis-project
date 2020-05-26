@@ -18,7 +18,7 @@ Please sign up for a [GitHub Account](http://github.com). For grading purposes y
 
 To ensure full reproducibility of your project, please set up a [Travis CI](https://travis-ci.org) as your continuous integration service. This includes the compilation of the final PDF as well as the codes that create the material used there.
 
-[![Build Status](https://travis-ci.org/HumanCapitalAnalysis/template-thesis-project.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/template-thesis-project)
+[![Continuous Integration](https://github.com/HumanCapitalAnalysis/template-thesis-project/workflows/Continuous%20Integration/badge.svg)](https://github.com/HumanCapitalAnalysis/template-thesis-project/actions)
 
 ## Basics
 
